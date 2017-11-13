@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:16:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/481eedc09afca42eea4a78260ebe152a/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/77ea5159c59b743063e1567a87476ca7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/9c125575a5f797c0cf491bfcf1b147d6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3d11939684b6c505969a13e72c104d91/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/e112cb1b40b859e009158e11a1de693e/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/481eedc09afca42eea4a78260ebe152a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/481eedc09afca42eea4a78260ebe152a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/77ea5159c59b743063e1567a87476ca7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/77ea5159c59b743063e1567a87476ca7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/9c125575a5f797c0cf491bfcf1b147d6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/9c125575a5f797c0cf491bfcf1b147d6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3d11939684b6c505969a13e72c104d91/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3d11939684b6c505969a13e72c104d91/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/e112cb1b40b859e009158e11a1de693e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/e112cb1b40b859e009158e11a1de693e/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:26:9-28:55
+	android:value
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:27:13-58
+activity#com.example.corourke.trackmylocation.MapsActivity
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:23:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/481eedc09afca42eea4a78260ebe152a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/481eedc09afca42eea4a78260ebe152a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/77ea5159c59b743063e1567a87476ca7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/77ea5159c59b743063e1567a87476ca7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/9c125575a5f797c0cf491bfcf1b147d6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/9c125575a5f797c0cf491bfcf1b147d6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3d11939684b6c505969a13e72c104d91/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/3d11939684b6c505969a13e72c104d91/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/e112cb1b40b859e009158e11a1de693e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/e112cb1b40b859e009158e11a1de693e/AndroidManifest.xml:4:5-43
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		ADDED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/corourke/AndroidStudioProjects/TrackMyLocation/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/6e558dbbb0e6b775cff86aa9db878525/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/60cfb68edea4cd72a8a879ef205775de/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d8c8908d231a83b776c4181eadd58e29/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c6f3a793cd82933f0378db8d08ee9c01/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/13a4d8bd52be8e486c55dca0fababc87/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ca52b36105e218a3aa0ff51b18cc601f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bc36c326adf038111db9635791551937/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22cdbfe83e137155b3acfee9b35e684f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0296a2aeff8883537e122cafee14217d/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/43bd00cc5392b0c7a07c77d3d034d530/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/002f171e98dea64000bd92e11c15d2b0/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/2593d8515f3a40a27d4be65970b35f69/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/corourke/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/46ca5e6feedf2209ba5429fa57898988/AndroidManifest.xml:26:13-58
